@@ -2,10 +2,6 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Jxliius</h1>
 <h4 align="center">I am currently studying in the Austrian School HTL</h4>
 </div>
-
-<div align="center">
-  <a href="https://Jxliius.github.io/Jxliius/">
-</div>
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
