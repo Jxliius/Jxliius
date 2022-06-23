@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I´m Julius</h1>
-<hr/>
-<h5 align="center">I am currently Student.</h4>
+
+<h4 align ="center">I am currently Student.</h4>
 <br>
 
 ## 🔥 Streak Stats
