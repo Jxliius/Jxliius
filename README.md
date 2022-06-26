@@ -3,8 +3,6 @@
 <h4 align="center">I am currently studying in the Austrian School HTL</h4>
 </div>
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
@@ -17,8 +15,7 @@
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jxliius&theme=gruvbox&hide_border=true" />
           </a>
        </p>
-     <br>
-  </div>    
+     <br>  
 </details>
 
 ------
